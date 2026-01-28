@@ -20,6 +20,12 @@ Switches setup
 ### Please set the switches BEFORE plugging the controller. 
 #### Many machines have a +5V out on some DB-9 pins. You can definitely fry something with an incorrect setup 
 
+
+
+_______________________________________________________________________________________________________________________
+
+
+
 ITA:
 Un folle tentativo di creare un controller che supportasse quanti piu retro-sistemi possibile
 
