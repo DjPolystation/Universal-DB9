@@ -3,7 +3,7 @@
 </a>
 
 
-##One controller to rule them all!
+## One controller to rule them all!
 
 ENG:
 This is me trying to make a controler supporting as much retro systems as possible
