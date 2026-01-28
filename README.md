@@ -1,4 +1,7 @@
-[logo]:https://github.com/DjPolystation/Universal-DB9/tree/main/img/logogamepad.png
+<a href="img/logogamepad.png">
+<img src="img/logogamepad.png" width="862" height="106">
+</a>
+
 
 ##One controller to rule them all!
 
